@@ -1,0 +1,14 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.deps.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.runtimeconfig.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.runtimeconfig.dev.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\bin\Debug\netcoreapp3.1\File1.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.AssemblyInfoInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.AssemblyInfo.cs
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 1, 2\Lap Trinh 2\File1\File1\obj\Debug\netcoreapp3.1\File1.genruntimeconfig.cache

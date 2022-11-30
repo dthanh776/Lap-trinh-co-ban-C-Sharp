@@ -1,0 +1,14 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.deps.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.runtimeconfig.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.runtimeconfig.dev.json
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\bin\Debug\netcoreapp3.1\Struct_cau1.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.AssemblyInfoInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.AssemblyInfo.cs
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Lập trình 2\Struct_cau1\Struct_cau1\obj\Debug\netcoreapp3.1\Struct_cau1.genruntimeconfig.cache

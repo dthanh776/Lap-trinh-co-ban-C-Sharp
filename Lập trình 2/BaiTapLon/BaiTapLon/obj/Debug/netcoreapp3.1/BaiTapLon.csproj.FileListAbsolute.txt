@@ -1,0 +1,14 @@
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.AssemblyInfoInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.AssemblyInfo.cs
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.exe
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.deps.json
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.runtimeconfig.json
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.runtimeconfig.dev.json
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.dll
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\bin\Debug\netcoreapp3.1\BaiTapLon.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.dll
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\BaiTapLon\BaiTapLon\obj\Debug\netcoreapp3.1\BaiTapLon.genruntimeconfig.cache

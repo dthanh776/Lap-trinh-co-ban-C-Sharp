@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbM4O3SZm204cruxBtxYNj3J8y9VIQIjFVMXH/wpFfYYZBbHy1ZE92MB2n8fGosFqWPjlQ/loXMFUQcIkZAJmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dthan\\OneDrive\\Desktop\\Code\\Successful\\Lập trình 2\\Struct_cau1\\Struct_cau1\\Struct_cau1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dthan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\dthan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dthan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dthan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
